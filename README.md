@@ -4,7 +4,5 @@
 By default, the program creates a 1600x900 window for the simulation, with each cell of the grid having a size of 4x4 pixels. These parameters, along with the colors for each cell state, can be easily modified in the `constants.h` header file.
 
 ## Compilation and Running the Program
-To compile simply run:
-   ```bash
-   make
+To compile simply run `make`
 
