@@ -18,6 +18,6 @@ or
 ```
 There are up to 16 different states by default, but this can easily be changed in the **colors[16]** vector in the `main.c` file.
 
-During the simulation you can use:
-`SPACEBAR`: to pause/unpause the simulation
-`ESC`: to exit the program
+During the simulation you can use:  
+`SPACEBAR`: to pause/unpause the simulation.  
+`ESC`: to exit the program.
