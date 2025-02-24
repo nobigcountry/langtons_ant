@@ -3,8 +3,7 @@
 #include <SDL2/SDL.h>
 #include <string.h>
 #include "constants.h"
-#include "grid.h"
-#include "ant.h"
+#include "simulation.h"
 
 int main (int argc, char *argv[]) {
 

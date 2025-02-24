@@ -1,7 +1,7 @@
 CC = gcc
 CFLAGS = -g -Wall -Wextra `sdl2-config --cflags`
 LDFLAGS = `sdl2-config --libs` -lm
-SRCS = ant.c grid.c main.c
+SRCS = simulation.c main.c
 OBJS = $(SRCS:.c=.o)
 TARGET = langton
 
