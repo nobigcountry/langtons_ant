@@ -10,7 +10,7 @@ You can run the default two-state simulation using:
 ```bash
 ./langton
 ```
-To define custom rules for each state, pass a sequence of `L`(Left) or `R`(RIGHT) as an argument. For example:
+To define custom rules for each state, pass a sequence of `L`(Left) or `R`(Right) as an argument. For example:
 ```bash
 ./langton LLRLLLRRL
 or
