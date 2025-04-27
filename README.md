@@ -16,7 +16,7 @@ For custom rules, pass a sequence of  `L`(Left) or `R`(Right) as an argument. Fo
 or
 ./langton llrlllrrl
 ```
-The simulation supports up to 16 different states, which can be changed in the **colors[16]** vector in the `main.c` file.
+The simulation supports up to 16 different states, which can be changed in the **colors[16]** array in the `main.c` file.
 
 During the simulation you can use:  
 `SPACEBAR`: to pause/unpause the simulation.  
